@@ -1,5 +1,9 @@
-# Trade
-Repositório para unir materiais, links, programas, códigos, para Trade sob orientação
-
 # Introducao
- brache: [*introducao*](https://github.com/Guihgo/trade/tree/introducao)
+
+## Ferramentas e Plataformas
+
+### MetaTrader
+
+* Curso em vídeo: https://www.youtube.com/watch?v=k7Sp6UWQaME&list=PLgFnW6rHMij6vuZpxAolcppkpoMxS-ToU
+
+* Link para download: https://www.metatrader5.com/
