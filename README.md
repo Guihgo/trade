@@ -35,3 +35,26 @@
 ## Backtest
 
 **Definição:** simula o mercado por um período já gravado utilizando um indicador ou um rôbo para saber se certa estratégia é boa ou não.
+
+## Lições Importantes
+
+1. "Vc nunca pode dizer que algo vai cair, o termo correto é '**pode** cair'. A gente nunca sabe a direção que o mercado vai tomar." ~Professor Elias
+
+## Resumo de leitura: COMO SE TRANSFORMAR EM UM OPERADOR E INVESTIDOR DE SUCESSO de Alexander Elder
+
+### As chances estão contra você
+
+"A indústria de operações de mercado mata os operadores de mercado com comissões e slippage. Quem ignora isso estará agindo da mesma maneira que um camponês que bebe água do poço da adaldeia durante uma epidemia de cólera.
+
+**Slippage** é a diferença entre o preço pelo qual se coloca uma ordem e o preço pelo qual se executa a ordem. Quando se emite uma ordem com limite, ela é executada ao preço estipulado ou não é executada. Quando se está ansioso para entrar ou sair do mercado e se emite uma ordem a mercado, ela geralmente é executada a preço pior do que o vigente no momento da colocação.
+
+Bolsas, reguladores, corretoras e assessores vivem à custa dos mercados, enquanto gerações de operadores de mercado continuam desaparecendo. **Os mercados precisam de novas levas de perdedores, da mesma
+maneira como os construtores das antigas pirâmides do Egito necessitavam de novos sortimentos de escravos**. Os perdedores deixam dinheiro no
+mercado, o que é necessário para a prosperidade do setor."
+
+Só existe o RICO se o POBRE existir.
+
+
+
+
+
