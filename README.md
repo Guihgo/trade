@@ -7,3 +7,5 @@ Repositório para unir materiais, links, programas, códigos, para Trade sob ori
 * Conceitos de Ordem
 * Rôbos
 * Backtest
+* Lições Importantes
+* Resumo de leitura: COMO SE TRANSFORMAR EM UM OPERADOR E INVESTIDOR DE SUCESSO de Alexander Elder
